@@ -1,4 +1,7 @@
 # 3-Axle-Mechanical-Arm
+This project used micro servos, an Arduino Uno, and HC-SR04 sensors to create a mechanical arm with 3 different swivle points. 
+The arm has capabilities to turn 180 degrees, and to extend its arm fully to 2 feet 180 degrees, giving it a full hemisphere of reach. 
+<br>
 ![IMG_5394](https://github.com/bwz5/3-Axle-Mechanical-Arm/assets/143123593/cafdfdf1-3332-4640-bef3-e6adb139d698)
 <br>
 The main body of the arm. 
